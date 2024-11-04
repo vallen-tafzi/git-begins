@@ -4,3 +4,4 @@ git commit -m "message commit"
 git push origin main
 
 git branch add-create-branch-command
+git checkout nom-de-la-branche
